@@ -48,3 +48,5 @@ G1 X110.0 Y110.0; Mover para o ponto 9
 G1 Z0.1; Mover para altura de calibracao
 M0 Bed levelling point 8; Espera entrada do usuario
 G1 Z2.0; Mover para cima para previnir danos na bed
+
+G1 X0.0 Y0.0; Mover para o (0,0)
